@@ -1,11 +1,34 @@
 <h1 align="center">Hi there 👋, I'm Thembinkosi Mkhonta</h1>
-<h3 align="center">A Software Developer</h3>
-
+<h3 align="center">A Software Developer 👨‍💻</h3>
+<!-- 
 - 🌱 I’m learning advanced concepts using `Go`,`Rust`, `Solidity` and `LLMs`.
 - 🌱 I'm also interested in learning the Blockchain ecosystem with a great understanding of smart contracts with `Solidity`.
 - 🌱 I currently have a great understanding of `Smart Contract Auditing` to ensure protocols are safe to use before deployment.
 - 👯 I’m looking to collaborate on any Software Development projects and Web 3.0 projects.
-- 📫 How to reach me: thembinkosimkhonta01@gmail.com
+- 📫 How to reach me: thembinkosimkhonta01@gmail.com -->
+
+🌱 Currently learning:
+   - Advanced concepts in `Go`, `Rust`, `Solidity`, and `LLMs`
+   - Blockchain ecosystem and smart contract development
+
+📚 Areas of interest:
+   - Backend Development
+   - Finetuning LLMs
+   - Kali (free-time)
+
+💼 Skills:
+   - 🖥️ Software Engineering
+   - 🔐 Smart Contract Auditing
+   - ⛓️ Blockchain Technology
+
+👥 Open to collaboration on:
+   - Software Development projects
+   - Web 3.0 initiatives
+
+📫 Contact:
+   - 📧 Email: thembinkosimkhonta01@gmail.com
+
+🌐 Always eager to learn, innovate, and contribute to cutting-edge technologies!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
