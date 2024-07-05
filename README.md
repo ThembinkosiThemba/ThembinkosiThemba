@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Thembinkosi Mkhonta</h1>
+<h2 align="center">Hi there 👋, I'm Thembinkosi Mkhonta</h1>
 <h3 align="center">A Software Developer 👨‍💻</h3>
 <!-- 
 - 🌱 I’m learning advanced concepts using `Go`,`Rust`, `Solidity` and `LLMs`.
@@ -7,9 +7,8 @@
 - 👯 I’m looking to collaborate on any Software Development projects and Web 3.0 projects.
 - 📫 How to reach me: thembinkosimkhonta01@gmail.com -->
 
-🌱 Currently learning:
-   - Advanced concepts in `Go`, `Rust`, `Solidity`, and `LLMs`
-   - Blockchain ecosystem and smart contract development
+🌱 Tech Stack:
+   - `Go`, `Rust`, `Solidity`, `Python`, `JS`, `Elixir`
 
 📚 Areas of interest:
    - Backend Development
