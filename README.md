@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Thembinkosi Mkhonta</h1>
-<h3 align="center">Software Engineer 👨‍💻 | Empowering Faster Development through Genesis Project</h3>
+<h3 align="center">Software Engineer 👨‍💻 | The Genesis Project</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
@@ -18,10 +18,6 @@
 
 <p>
   📦 <strong>Check out the <a href="https://crates.io/crates/genesis_rs">crate</a></strong>
-</p>
-
-<p align="center">
-   <img src="./img/image.png" alt="img" />
 </p>
 
 <h2>💼 Expertise</h2>
