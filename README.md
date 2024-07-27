@@ -20,14 +20,6 @@
   📦 <strong>Check out the <a href="https://crates.io/crates/genesis_rs">crate</a></strong>
 </p>
 
-<h2>💼 Expertise</h2>
-
-<ul>
-  <li>🖥️ Backend Development</li>
-  <li>🔐 Finetuning LLMs</li>
-  <li>⛓️ Kali Linux (hobby)</li>
-</ul>
-
 <h2>📫 Get in Touch</h2>
 
 <p>
