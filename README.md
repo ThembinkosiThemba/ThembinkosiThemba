@@ -16,7 +16,9 @@
 
 #### ⚙️ [TempDB](beta.tempdb.xyz)
 
-TempDB is an AI-enhanced real-time data platform for instant data access and intelligent streaming. By using TempDB, you get AI-powered data processing and automation, Real-time data streaming, NoSQL with flexible querying
+TempDB is an AI-enhanced real-time data platform for instant data access and intelligent streaming. By using TempDB, you get AI-powered data processing and automation, Real-time data streaming, NoSQL with flexible querying.
+
+Visit the [website](https://beta.tempdb.xyz).
 
 ---
 
@@ -25,6 +27,8 @@ TempDB is an AI-enhanced real-time data platform for instant data access and int
 Zen is a fast and lightweight Go-based HTTP framework, balancing simplicity and enterprise-level features.
 
 It's fast and minimal, hasmiddleware support for ratelimiting, authentication, CORS, and security and more. Check the documentation.
+
+Go to the [repo](https://github.com/ThembinkosiThemba/zen) here.
 
 ### 🌐 Connect with Me
 
@@ -40,14 +44,14 @@ It's fast and minimal, hasmiddleware support for ratelimiting, authentication, C
   </a>
 </p>
 
----
+<!-- --- -->
 
-### 📈 GitHub Stats
+<!-- ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThembinkosiThemba&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ThembinkosiThemba&theme=radical&hide_border=true" alt="GitHub Streak">
-</p>
+</p> -->
 
 ---
 
