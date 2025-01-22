@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Thembinkosi Mkhonta</h1>
+<h2 align="center">👋 Hello, I'm Thembinkosi Mkhonta</h2>
 <h3 align="center">Software Engineer | Enabling Developers</h3>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ### 🏆 Featured Projects
 
-#### ⚙️ [TempDB](beta.tempdb.xyz)
+#### ⚙️ [tempdb-labs](beta.tempdb.xyz)
 
-TempDB is an AI-enhanced real-time data platform for instant data access and intelligent streaming. By using TempDB, you get AI-powered data processing and automation, Real-time data streaming, NoSQL with flexible querying.
+TempDB Labs is a data infrastructure with a variety of storage solutions [key-value, document db and vector databases], workflows for data analysis and report insights. 
 
 Visit the [website](https://beta.tempdb.xyz).
 
