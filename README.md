@@ -14,19 +14,19 @@
 
 ### 🏆 Featured Projects
 
-#### ⚙️ [tempdb-labs](beta.tempdb.xyz)
+#### ⚙️ [SearchHQ](www.searchhq.org)
 
-TempDB Labs is a data infrastructure with a variety of storage solutions [key-value, document db and vector databases], workflows for data analysis and report insights. 
+Build and Organize your knowledge for multimodal applications.
 
-Visit the [website](https://beta.tempdb.xyz).
+Visit the [website](https://www.searchhq.org).
 
 ---
 
 #### 🌐 [Zen Web Framework](#)
 
-Zen is a fast and lightweight Go-based HTTP framework, balancing simplicity and enterprise-level features.
+Zen is a fast and lightweight Go-based HTTP framework.
 
-It's fast and minimal, hasmiddleware support for ratelimiting, authentication, CORS, and security and more. Check the documentation.
+It's fast and minimal, has middleware support for ratelimiting, authentication, CORS, and security and more. Check the documentation.
 
 Go to the [repo](https://github.com/ThembinkosiThemba/zen) here.
 
