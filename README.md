@@ -1,60 +1,54 @@
-<h2 align="center">👋 Hello, I'm Thembinkosi Mkhonta</h2>
-<h3 align="center">Software Engineer | Enabling Developers</h3>
+# Hi, I'm Thembinkosi Mkhonta 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir">
-</p>
+**Software Engineer | Enabling Developers**
 
----
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 
-### 🏆 Featured Projects
+> Building developer tools and systems that make engineers more productive. Passionate about performance, simplicity, and creating tools that solve real problems.
 
-#### ⚙️ [SearchHQ](www.searchhq.org)
+## Featured Projects
 
-Build and Organize your knowledge for multimodal applications.
+### 🔍 [SearchHQ](https://www.searchhq.org)
 
-Visit the [website](https://www.searchhq.org).
+Build and organize your knowledge for multimodal applications.
 
----
+## Current Projects
 
-#### 🌐 [Zen Web Framework](#)
+- 🌐 **[Zen](https://github.com/ThembinkosiThemba/zen)** - A lightweight and fast HTTP framework for Go with security-first principles, middleware for authentication, rate limiting, and CORS
+- 📁 **[Files](https://github.com/ThembinkosiThemba/files)** - A TUI file manager built with Rust featuring persistent history tracking and file preview capabilities
+- ✅ **[Tasks](https://github.com/ThembinkosiThemba/tasks)** - A minimal task and project organization tool without the fluff, open source
+- 💾 **[TinyCache](https://github.com/ThembinkosiThemba/tinycache)** - An in-memory database engine built from the ground up in Rust
+- 🕸️ **[Synaptic Web](https://github.com/ThembinkosiThemba/synaptic-web)** - A 3D visualization system simulating the growth and evolution of interconnected nodes in a self-organizing network
+- 🚀 **[Genesis](https://github.com/ThembinkosiThemba/genesis)** - A powerful project starter tool for Go, Rust, and React developers with interactive CLI and automatic dependency management
 
-Zen is a fast and lightweight Go-based HTTP framework.
+## What I'm Building
 
-It's fast and minimal, has middleware support for ratelimiting, authentication, CORS, and security and more. Check the documentation.
+- **Developer Tools** - Creating CLI tools and frameworks that enhance developer productivity
+- **Systems Programming** - Building performant systems in Rust and Go
+- **Web Infrastructure** - Developing lightweight frameworks and tools for modern web applications
+- **Knowledge Systems** - Working on multimodal AI applications and knowledge organization platforms
 
-Go to the [repo](https://github.com/ThembinkosiThemba/zen) here.
+## Recognition
 
-### 🌐 Connect with Me
+- 🏆 **SATNAC Innovator Award 2024** - Best Overall Innovators Award for centralized and automated monitoring solution for telecoms
+- 🏆 **Best Telkom Award 2024** - Winner at SATNAC conference competing across Southern Africa
 
-<p align="center">
-  <a href="mailto:thembinkosimkhonta01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://twitter.com/thembinkosi_rs" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.linkedin.com/in/thembinkosi-mkhonta-b19812213/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+[Read more](https://www.linkedin.com/feed/update/urn:li:activity:7249491591080341506/)
 
-<!-- --- -->
+## Connect
 
-<!-- ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThembinkosiThemba&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ThembinkosiThemba&theme=radical&hide_border=true" alt="GitHub Streak">
-</p> -->
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thembinkosimkhonta01@gmail.com)
+[![Twitter](https://img.shields.io/badge/-@thembinkosi__rs-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thembinkosi_rs)
+[![LinkedIn](https://img.shields.io/badge/-Thembinkosi_Mkhonta-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thembinkosi-mkhonta-b19812213/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ThembinkosiThemba)
 
 ---
 
-<p align="center">
-  Let's build a better digital world, one line of code at a time.
-</p>
+### Philosophy
+
+> "Build tools that solve real problems, then share them with the community"
