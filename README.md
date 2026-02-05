@@ -20,6 +20,7 @@ Build and organize your knowledge for multimodal applications.
 ## Current Projects
 
 - **[Filecast](https://github.com/ThembinkosiThemba/filecast)** - A Raycast alternative for Linux using rust
+- **[pg_studio](https://github.com/ThembinkosiThemba/pg_studio)** - A modern, open-source web-based tool to explore, query, and manage PostgreSQL databases
 - **[Zen](https://github.com/ThembinkosiThemba/zen)** - A lightweight and fast HTTP framework for Go with security-first principles, middleware for authentication, rate limiting, and CORS
 - **[Tasks](https://github.com/ThembinkosiThemba/tasks)** - A minimal task and project organization tool without the fluff, open source
 - **[TinyCache](https://github.com/ThembinkosiThemba/tinycache)** - An in-memory database engine built from the ground up in Rust
