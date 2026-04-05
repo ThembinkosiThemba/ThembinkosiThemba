@@ -5,20 +5,31 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/-Caddy-00ADD8?style=flat-square&logo=caddy&logoColor=white)
 
 > Building developer tools and systems that make engineers more productive. Passionate about performance, simplicity, and creating tools that solve real problems.
 
 ## Featured Projects
 
-### 🔍 [SearchHQ](https://www.searchhq.org)
+### [Orbit](https://orbit.searchhq.org)
+
+Orbit is a Customer Experience platform designed to help businesses build, deploy, and manage customer support agents using interactive visual tools.
+
+### [SearchHQ](https://www.searchhq.org)
 
 Build and organize your knowledge for multimodal applications.
 
 ## Current Projects
 
+- **[Scale](https://scale.searchhq.org)** - A serverless hosting platform, inspired by Vercel
 - **[Filecast](https://github.com/ThembinkosiThemba/filecast)** - A Raycast alternative for Linux using rust
 - **[pg_studio](https://github.com/ThembinkosiThemba/pg_studio)** - A modern, open-source web-based tool to explore, query, and manage PostgreSQL databases
 - **[Zen](https://github.com/ThembinkosiThemba/zen)** - A lightweight and fast HTTP framework for Go with security-first principles, middleware for authentication, rate limiting, and CORS
@@ -36,10 +47,9 @@ Build and organize your knowledge for multimodal applications.
 
 ## Recognition
 
-- 🏆 **SATNAC Innovator Award 2024** - Best Overall Innovators Award for centralized and automated monitoring solution for telecoms
+- 🏆 **[SATNAC Innovator Award 2024](https://www.linkedin.com/feed/update/urn:li:activity:7249491591080341506/)** - Best Overall Innovators Award for centralized and automated monitoring solution for telecoms
 - 🏆 **Best Telkom Award 2024** - Winner at SATNAC conference competing across Southern Africa
-
-[Read more](https://www.linkedin.com/feed/update/urn:li:activity:7249491591080341506/)
+- 🥈 **[Second place code for care winner](https://www.linkedin.com/posts/thembinkosi-mkhonta_health-eswatini-activity-7265602367620853760-PZdr/)**
 
 ## Connect
 
