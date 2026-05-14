@@ -36,7 +36,6 @@ Build and organize your knowledge for multimodal applications.
 - **[Tasks](https://github.com/ThembinkosiThemba/tasks)** - A minimal task and project organization tool without the fluff, open source
 - **[TinyCache](https://github.com/ThembinkosiThemba/tinycache)** - An in-memory database engine built from the ground up in Rust
 - **[Synaptic Web](https://github.com/ThembinkosiThemba/synaptic-web)** - A 3D visualization system simulating the growth and evolution of interconnected nodes in a self-organizing network
-- **[Genesis](https://github.com/ThembinkosiThemba/genesis)** - A powerful project starter tool for Go, Rust, and React developers with interactive CLI and automatic dependency management
 
 ## What I'm Building
 
