@@ -4,7 +4,7 @@
 
 #### [SearchHQ](https://www.searchhq.org): AI Applications in the different verticals using foundational models.
 
-### Current Projects
+### Projects
 
 - **[Scale](https://scale.searchhq.org)** - A serverless hosting platform, inspired by Vercel
 - **[Bedrock Native](https://bedrock.searchhq.org)** - A cli for building and packaging native apps on a remote execution environment
